@@ -10,7 +10,7 @@
     "Slot Gacor",
     "Slot Gacor Maxwin"
   ],
-  "repository": "https://github.com/jamet56/bangjamet.git",
+  "repository": "https://github.com/jamet56/bangjamet",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
